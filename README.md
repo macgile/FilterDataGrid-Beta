@@ -16,8 +16,8 @@ https://shields.io/category/version
 -->
 The new filtering method is completely different from the current version or the one commonly used to filter data (as far as I know).  
 Its operation is the closest to that of Excel.  
-In its final version there will be the choice between two filtering modes : 
-Excel or the current method.  
+<!-- In its final version there will be the choice between two filtering modes : 
+Excel or the current method. --> 
 
 
 ![datagrid image demo](FilterDataGrid.png)  
