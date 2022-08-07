@@ -9,10 +9,11 @@ https://shields.io/category/version
 <!--
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/macgile/DataGridFilter)
 -->
-
+<!--
 ## This branch is an experimental version of FilterDataGrid
 
-> Do not use it outside of any experimental or testing context.  
+> Do not use it outside of any experimental or testing context.
+-->
 The new filtering method is completely different from the current version or the one commonly used to filter data (as far as I know).  
 Its operation is the closest to that of Excel.  
 In its final version there will be the choice between two filtering modes : 
